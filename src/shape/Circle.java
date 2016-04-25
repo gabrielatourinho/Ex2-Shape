@@ -13,7 +13,7 @@ public class Circle extends Shape {
     private int radius;
     public Circle(String aName) {
         super(aName);
-        radius = 5;
+        radius = 2;
     }
     public float calculateArea () {
         float area;

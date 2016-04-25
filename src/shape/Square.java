@@ -13,7 +13,7 @@ public class Square extends Shape {
     private int side;
     public Square(String aName) {
         super(aName);
-        side = 7;
+        side = 4;
     }
     
     public float calculateArea() {
