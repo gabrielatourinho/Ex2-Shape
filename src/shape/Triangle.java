@@ -14,9 +14,9 @@ public class Triangle extends Shape {
     private float a, b, c;
     public Triangle(String aName) {
         super(aName);
-        a = 3;
-        b = 4;
-        c = 5;
+        a = 6;
+        b = 6;
+        c = 6;
     }
     
     public float calculateArea() {
